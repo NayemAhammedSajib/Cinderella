@@ -49,7 +49,8 @@ h3 {
 .center-pic {
   width: 800px;
 }
-.second-container {
+.second-container,
+.third-container {
   margin: 80px 0;
 }
 .profile-img {
@@ -85,10 +86,10 @@ h3 {
   margin-right: 30px;
 }
 .Itu {
-  float: left;
   width: 55%;
   border-radius: 20%;
   margin-right: 30px;
+  object-fit: cover;
 }
 #CEO {
   border-radius: 50%;
@@ -96,15 +97,16 @@ h3 {
   width: 250px;
 }
 .Sajib {
-  position: absolute;
-  left: 50%;
   width: 55%;
   border-radius: 20%;
   margin-right: 30px;
+  object-fit: cover;
 }
 #Director {
   border-radius: 50%;
   height: 250px;
   width: 250px;
 }
-
+.third-container {
+  position: relative;
+}
