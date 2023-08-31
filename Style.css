@@ -1,6 +1,6 @@
 body {
   background-color: #e0ebe8;
-  font-family: "Ubuntu", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   margin: 0;
   text-align: center;
 }
@@ -8,7 +8,7 @@ h1 {
   color: rgb(250, 51, 144);
 }
 h1 {
-  font-family: "Dancing Script", cursive;
+  font-family: 'Dancing Script', cursive;
   margin: 50px 0 20px;
   font-size: 4rem;
   padding: 0;
@@ -86,27 +86,24 @@ h3 {
   margin-right: 30px;
 }
 .Itu {
-  width: 55%;
-  border-radius: 20%;
-  margin-right: 30px;
+  width: 50%;
   object-fit: cover;
+  float: left;
 }
-#CEO {
+.itu-img {
   border-radius: 50%;
   height: 250px;
   width: 250px;
+  object-fit: cover;
 }
 .Sajib {
-  width: 55%;
-  border-radius: 20%;
-  margin-right: 30px;
+  width: 50%;
+  float: right;
   object-fit: cover;
 }
-#Director {
+.sajib-img {
   border-radius: 50%;
   height: 250px;
   width: 250px;
-}
-.third-container {
-  position: relative;
+  object-fit: cover;
 }
