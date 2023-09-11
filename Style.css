@@ -106,4 +106,76 @@ h3 {
   height: 250px;
   width: 250px;
   object-fit: cover;
+<<<<<<< HEAD
+=======
+}
+.Sajib-fb {
+  text-decoration: none;
+>>>>>>> e2c4d0a (Final Upgradation)
+}
+.Sajib-fb:hover {
+  color: tomato;
+}
+.Itu-fb {
+  text-decoration: none;
+}
+.Itu-fb:hover {
+  color: tomato;
+}
+
+/* For Button */
+
+.contractButton {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffffff;
+  font-size: 1.5rem;
+  padding: 10px;
+  background-color: #eb3838;
+  -webkit-box-shadow: 1px 1px 5px 0 #000000;
+  -moz-box-shadow: 1px 1px 5px 0 #000000;
+  box-shadow: 1px 1px 5px 0 #000000;
+  text-shadow: 1px 1px 5px #000000;
+  border: solid #e0ebe8 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+}
+.contractButton:hover {
+  background: tomato;
+  border: solid #e0ebe8 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.social_btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffffff;
+  font-family: Open Sans;
+  font-size: 21px;
+  font-weight: 600;
+  padding: 10px;
+  background-color: #eb3838;
+  -webkit-box-shadow: 1px 1px 1px 0 #000000;
+  -moz-box-shadow: 1px 1px 1px 0 #000000;
+  box-shadow: 1px 1px 1px 0 #000000;
+  text-shadow: 1px 1px 1px #000000;
+  border: solid #e0ebe8 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.social_btn:hover {
+  background: #385898;
+  border: solid #e0ebe8 1px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  text-decoration: none;
 }
